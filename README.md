@@ -6,7 +6,7 @@ A child’s spoken ability continues to change until their adult age. Until 7-8y
 
 # Work in Progress! 
 
-This paper has been accepted for presentation at the 10th Workshop on Speech and Language Technology in Education (SLaTE 2025). We will comtinue to work and update this Github with the relevant resources. 
+This paper has been accepted for presentation at the 10th Workshop on Speech and Language Technology in Education (SLaTE 2025), a Satellite Workshop of the 2025 Interspeech Conference. We will continue to work and update this GitHub with the relevant resources. 
 
 ## Citation
 
