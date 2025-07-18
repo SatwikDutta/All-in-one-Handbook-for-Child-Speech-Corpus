@@ -10,4 +10,14 @@ A child’s spoken ability continues to change until their adult age. Until 7-8y
 [Click here](https://github.com/SatwikDutta/All-in-one-Handbook-for-Child-Speech-Corpus/blob/b17e5a90ec84610f9e1aa4e7bd017a4aa9d80ead/Human_Subjects_Research_Protocol.md)
 
 ## Citation
-
+```
+@misc{hansen2025bestpracticesconsiderationschild,
+      title={Best Practices and Considerations for Child Speech Corpus Collection and Curation in Educational, Clinical, and Forensic Scenarios}, 
+      author={John Hansen and Satwik Dutta and Ellen Grand},
+      year={2025},
+      eprint={2507.12870},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2507.12870}, 
+}
+```
